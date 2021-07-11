@@ -16,11 +16,11 @@ This app works in three steps :
 
 # Installation
 
-1.**requirments**
-  - pip3 install -r requirments.txt
-2.**How to run ???**
-  - Type **python3 main.py** on the terminal in right directory.
-  - Turn your webcam on and press number **1** then press **Enter**
-  - Press **2**
-  - Press **3** and enjoy :)
+1. **requirments**
+   - pip3 install -r requirments.txt
+2. **How to run ???**
+   - Type **python3 main.py** on the terminal in right directory.
+   - Turn your webcam on and press number **1** then press **Enter**
+   - Press **2**
+   - Press **3** and enjoy :)
 
