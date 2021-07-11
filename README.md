@@ -14,3 +14,13 @@ This app works in three steps :
 **Third step :**
  - Now everything is ready to recognize our user face, in this step we detect the user face and compare it to our previous data which we callected in previous steps.
 
+# Installation
+
+1. **requirments**
+  - pip3 install -r requirments.txt
+2. **How to run ???**
+  - Type **python3 main.py** on the terminal in right directory.
+  - Turn your webcam on and press number **1** then press **Enter**
+  - Press **2**
+  - Press **3** and enjoy :)
+
