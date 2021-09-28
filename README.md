@@ -2,8 +2,10 @@
 
 This is a console based application which uses opencv and python in order to detect human face and finally recognize it.
 
+  ![Screenshot from 2021-09-28 10-21-33](https://user-images.githubusercontent.com/87131825/135037563-6055dd8d-9928-4945-ac55-a5402727c008.png)
+
 This app works in three steps :
-  
+
 **First step :**
 - Detecting human face and extract human faces from the image and finally save these images in directory called "/data/images_db"
     
